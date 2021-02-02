@@ -1,4 +1,7 @@
 # Snake Tutorial Python
+/*Michael Sarmento
+Date: 04/2019
+*/
 
 import math
 import random
